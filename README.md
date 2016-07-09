@@ -25,7 +25,7 @@
 	
 	High Availability 
 	
-	![逻辑流程图](/1_Document/images/Crystal-LogicDiagram.jpg "Logic")
+	![逻辑流程图](doc/images/Crystal-LogicDiagram.jpg "Logic")
 	
 	
 	### 3.【Modules】
