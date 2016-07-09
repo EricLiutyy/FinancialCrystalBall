@@ -24,8 +24,8 @@
 ### 2.【Architecture】
 	
 	High Availability 
-	
-	![逻辑流程图](doc/images/1.jpg)
+
+![逻辑流程图](doc/images/1.jpg)
 	
 	
 	### 3.【Modules】
